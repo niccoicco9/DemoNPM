@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wantedlex/DemoNPM/issues"
   },
-  "homepage": "https://github.com/wantedlex/DemoNPM#readme"
+  "homepage": "https://github.com/wantedlex/DemoNPM#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
 }
