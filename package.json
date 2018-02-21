@@ -1,0 +1,23 @@
+{
+  "name": "demonpm",
+  "version": "1.0.0",
+  "description": "Prima demo npm: vediamo come funziona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantedlex/DemoNPM.git"
+  },
+  "keywords": [
+    "demo",
+    "npm"
+  ],
+  "author": "Alessandro Corrado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantedlex/DemoNPM/issues"
+  },
+  "homepage": "https://github.com/wantedlex/DemoNPM#readme"
+}
