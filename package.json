@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/wantedlex/DemoNPM/issues"
   },
-  "homepage": "https://github.com/wantedlex/DemoNPM#readme"
+  "homepage": "https://github.com/wantedlex/DemoNPM#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "logmon": "0.0.1"
+  }
 }
